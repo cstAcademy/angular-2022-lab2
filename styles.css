@@ -1,0 +1,62 @@
+#main-content {
+  text-align: center;
+  background-color: #f2f0d5;
+  padding: 10px 20%;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.menu-item {
+  margin-top: 50px;
+}
+
+ol {
+  text-align: left;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.product-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+span {
+  float: right;
+}
+
+.product-ingredients {
+  font-weight: bold;
+  color: #668c4a;
+}
+
+#subtitle {
+  color: #4dc7ff;
+}
+
+img {
+  width: 40%;
+  height: 200px;
+  margin: 20px;
+  cursor: not-allowed;
+}
+
+#footer {
+  text-align: center;
+  background-color: #000;
+  border-top: 10px solid #668c4a;
+  color: #fff;
+  padding-bottom: 10px;
+}
+
+a {
+  color: #fff;
+}
